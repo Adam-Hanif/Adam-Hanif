@@ -7,7 +7,8 @@
 Я фронтенд-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался после школы . Я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, но больше всего меня зацепила веб разработка!
 
 ---
-- :mailbox: Как связаться со мной: [![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/AlanSalons)
+- :mailbox: Как связаться со мной:
+- [![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/AlanSalons)
 ---
 
 ### 🤝 Вы можете связаться со мной по ссылке:
