@@ -14,8 +14,9 @@
     <a href="https://vk.com/id334321863" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
-    [![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/AlanSalons)
-   
+     <a href="https://t.me/AlanSalons" target="_blank">
+      <img src="   https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu0NEoFhCyuodWAV6Jf0TYjNggrjmrszlBAw&usqp=CAU" width="40" height="40" alt="VK Badge"/>
+    </a>
   </div>
 
 ---
