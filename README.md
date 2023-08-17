@@ -7,10 +7,6 @@
 Я фронтенд-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался после школы . Я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, но больше всего меня зацепила веб разработка!
 
 ---
-## Связаться со мной вы можете по ссылке: 
-[![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/AlanSalons)
----
-
 ### 🤝 Вы можете связаться со мной по ссылке:
 
   <div id="badges">
@@ -18,6 +14,7 @@
     <a href="https://vk.com/id334321863" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
+    [![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/AlanSalons)
    
   </div>
 
