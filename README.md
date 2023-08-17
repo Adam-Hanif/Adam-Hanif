@@ -9,11 +9,8 @@
 ---
 ### 🤝 Вы можете связаться со мной по ссылке:
   [![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/AlanSalons)
-    <a href="http://www.instagram.com/https://www.instagram.com/adam._it/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="20" height="20" /> </picture> </a>
-    <a href="https://vk.com/id334321863" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
-    </a>
-
+  [![Instagram](https://img.shields.io/badge/-Instagram-red?color=white&logo=instagram&logoColor=black)](https://www.instagram.com/adam._it/)
+ 
 
 
  ### Языки и инструменты, которыми я пользуюсь:
