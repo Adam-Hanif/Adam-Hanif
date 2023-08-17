@@ -8,7 +8,7 @@
 
 ---
 ### 🤝 Вы можете связаться со мной по ссылке:
-  [![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/AlanSalons)
+  [![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/AlanSalons)
   [![Instagram](https://img.shields.io/badge/-Instagram-red?color=white&logo=instagram&logoColor=black)](https://www.instagram.com/adam._it/)
  
 
