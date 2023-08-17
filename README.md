@@ -7,8 +7,7 @@
 </p>
 
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AlanSalons) [![Email Badge](https://img.shields.io/badge/-Email-red?style=flat&logo=Email&logoColor=white)](mailto:alan_salons@mail.ru)
-
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AlanSalons) [alan\_salons@mail.ru](mailto:alan_salons@mail.ru)
 ---
 
 ### 🤝 Социальные сети:
