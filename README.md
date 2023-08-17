@@ -7,7 +7,7 @@
 Я фронтенд-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался после школы . Я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, но больше всего меня зацепила веб разработка!
 
 ---
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AlanSalons) [alan\_salons@mail.ru](mailto:alan_salons@mail.ru)
+- :mailbox: Как связаться со мной: [![Telegram](https://img.shields.io/badge/Telegram-111111?style=for-the-badge&logo=telegram)](https://t.me/AlanSalons)
 ---
 
 ### 🤝 Вы можете связаться со мной по ссылке:
@@ -23,9 +23,9 @@
 ---
 
 
- <p  width="40" height="40">Языки и инструменты, которыми я пользуюсь:</p>
+ ### Языки и инструменты, которыми я пользуюсь:
 
-### 💻 Технологии:
+## 💻 Технологии:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
