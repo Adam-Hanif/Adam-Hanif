@@ -2,15 +2,15 @@
 
 ---
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
+### :man_technologist: Обо мне:
 
+Я фронтенд-разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался после школы . Я пробовал себя во многих направлениях, пробовал изучать язык Си, Python, но больше всего меня зацепила веб разработка!
 
+---
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/AlanSalons) [alan\_salons@mail.ru](mailto:alan_salons@mail.ru)
 ---
 
-### 🤝 Социальные сети:
+### 🤝 Вы можете связаться со мной по ссылке:
 
   <div id="badges">
     <a href="http://www.instagram.com/https://www.instagram.com/adam._it/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" /> </picture> </a>
@@ -21,6 +21,9 @@
   </div>
 
 ---
+
+
+ <p  width="40" height="40">Языки и инструменты, которыми я пользуюсь:</p>
 
 ### 💻 Технологии:
 
