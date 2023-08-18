@@ -6,9 +6,17 @@
 
 Я фронтенд-разработчик.  
 В 2021 году я начал изучать JS-разработку, прошел несколько курсов и получил все необходимые базовые знания, связанные с веб-разработкой.
+
+
+---
+### 🤝 Вы можете связаться со мной по ссылке:
+  [![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/AlanSalons)
+  [![Instagram](https://img.shields.io/badge/-Instagram-red?color=white&logo=instagram&logoColor=black)](https://www.instagram.com/adam._it/)
+ 
+
 ---
 
-<h2>Cтек технологий, с которым я работал:<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> </h2>
+<h2>Языки и инструменты, которыми я пользуюсь:<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px"> </h2>
 <ul>
 <li>HTML - CSS - JavaScript - Typescript;</li>
 <li>React 17/18 - Redux;</li>
@@ -18,16 +26,6 @@
 <li> Bootstrap - Material UI;</li>
 <li> NPM - YARN;</li>
 <li> NodeJS - Express - MongoDB.</li>
-
----
-### 🤝 Вы можете связаться со мной по ссылке:
-  [![Telegram](https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black)](https://t.me/AlanSalons)
-  [![Instagram](https://img.shields.io/badge/-Instagram-red?color=white&logo=instagram&logoColor=black)](https://www.instagram.com/adam._it/)
- 
-
-
- ### Языки и инструменты, которыми я пользуюсь:
-
 ## 💻 Технологии:
 
 <div>
